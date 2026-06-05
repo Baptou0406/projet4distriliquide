@@ -5,23 +5,31 @@ nav_order: 6
 has_children: true
 ---
 
-# Étapes de Fabrication
+# Étapes de fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet XYZ. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Cette section présente les principales étapes de fabrication du projet **Mix&Go**. Elle permet de suivre l’ordre de réalisation du prototype, depuis la préparation des matériaux jusqu’à l’assemblage final.
 
-## Aperçu des Étapes
+## Aperçu des étapes
 
-Le processus de fabrication est divisé en plusieurs étapes clés :
+Le processus de fabrication est divisé en plusieurs étapes :
 
-1. [Préparation des Matériaux](etape_1)
+1. [Préparation des matériaux](etape_1)
 2. [Assemblage](etape_2)
-3. [Finition]()
-4. [Contrôle Qualité]()
 
-## Commencer
+## Préparation des matériaux
 
-Pour commencer, assurez-vous de bien comprendre chaque étape et de disposer de tous les outils et matériaux nécessaires. Suivez les étapes dans l'ordre pour garantir la qualité et l'efficacité du processus de fabrication.
+Cette première étape consiste à rassembler les matériaux nécessaires au projet, notamment le **PLA**, l’**ABS** et l’**aluminium**.  
+Elle permet aussi de préparer les outils, comme les **clés Allen**, les vis, les écrous et les éléments de fixation.
+
+## Assemblage
+
+L’assemblage consiste à monter progressivement la structure du prototype.  
+Cette étape comprend la fixation des éléments en aluminium, l’installation des pièces imprimées en 3D et la mise en place du plateau tournant.
+
+## Objectif de cette section
+
+L’objectif est de documenter clairement les étapes réalisées afin de pouvoir comprendre, reproduire et améliorer le prototype.
 
 ---
 
-Pour toute question ou aide supplémentaire, n'hésitez pas à contacter notre équipe.
+Une fois les matériaux préparés, commencez par la page [Préparation des matériaux](etape_1).
