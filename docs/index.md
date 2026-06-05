@@ -25,6 +25,6 @@ Bienvenue dans la documentation du projet **Mix&Go**. Ce site a pour but de four
 ## Vidéo
 
 
-<video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
+<video src="images/video.mov" controls title="Title"  style="width: 100%;"></video>
 
 ---
